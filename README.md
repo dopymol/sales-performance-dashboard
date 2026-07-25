@@ -35,7 +35,7 @@ Superstore Sales dataset (~9,800 rows), containing order details, customer infor
 
 ## SQL in Action
 
-![SQL Query Screenshot](screenshots/sql_query_screenshot.png)
+![SQL Query Screenshot](sql_query_screenshot.png)
 
 *Example: Total revenue by region, run in MySQL Workbench.*
 
