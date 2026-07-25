@@ -49,7 +49,7 @@ Superstore Sales dataset (~9,800 rows), containing order details, customer infor
 ## Files in This Repository
 
 ```
-├── sql/
+├── SQL/
 │   └── analysis_queries.sql       # Table setup, data load, and all analysis queries
 ├── dashboard/
 │   ├── sales_dashboard.pbix       # Power BI dashboard file
