@@ -54,8 +54,7 @@ Superstore Sales dataset (~9,800 rows), containing order details, customer infor
 ├── dashboard/
 │   ├── sales_dashboard.pbix       # Power BI dashboard file
 │   └── dashboard_screenshot.png   # Full dashboard screenshot
-├── screenshots/
-│   └── sql_query_screenshot.png   # SQL query + result example
+├──   sql_query_screenshot.png   # SQL query + result example
 └── README.md
 ```
 
@@ -66,5 +65,5 @@ Superstore Sales dataset (~9,800 rows), containing order details, customer infor
 
 ## Author
 
-Donna Rose
+Dona Rose
 [LinkedIn](https://www.linkedin.com/in/dopymol) | [GitHub](https://github.com/dopymol)
